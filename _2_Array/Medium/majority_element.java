@@ -18,3 +18,5 @@ class Solution {
         return element;
     }
 }
+// The idea is based on the fact that if there is a majority element, 
+// it will eventually dominate and remain as the candidate after going through the entire array.
