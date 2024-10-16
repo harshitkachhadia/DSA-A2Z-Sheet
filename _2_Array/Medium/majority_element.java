@@ -1,7 +1,7 @@
 
 //Boyer-Moore Voting Algorithm
 //The majority element is defined as the element that appears
-// more than n/2 times, where n is the size of the array.
+// 
 class Solution {
     public int majorityElement(int[] nums) {
         int n = nums.length;
